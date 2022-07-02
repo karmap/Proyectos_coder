@@ -1,0 +1,15 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "ejemplo de node y npm",
+  "main": "holamundo.js",
+  "scripts": {
+    "start": "node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian escalante",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
