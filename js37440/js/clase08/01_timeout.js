@@ -8,7 +8,7 @@ setTimeout( () => {
     console.log('Mitad de proceso: 0 seg')
 }, 0)
 
-console.log('extra ...');
+console.log('extra');
 
 const randomTime = parseInt(Math.random() * 5000)
 setTimeout( () => {
